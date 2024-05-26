@@ -29,5 +29,6 @@ Proyek ini adalah pengembangan sebuah prototype aplikasi toko gadget yang bertuj
 
 ## Link 
 Berikut ini adalah link showcase: https://www.behance.net/gallery/199494707/Aplikasi-Toko-Gadget
+
 link figma: https://www.figma.com/design/9zThpfaAuzTB0F3Fk9smcN/IMK-Tugas-1-Wireframe-Low-Fidelity?node-id=0-1&t=p6Gri5b54uMQfjFQ-1
 
